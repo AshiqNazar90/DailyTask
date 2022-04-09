@@ -38,7 +38,7 @@ namespace DailyTask
 
                 Console.WriteLine();
             }
-
+            Console.WriteLine("Press any Key to Exit");
             Console.ReadKey();
         }
     }
